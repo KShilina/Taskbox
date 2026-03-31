@@ -19,6 +19,7 @@
         :id="'title-' + task.id"
         name="title"
         placeholder="Input title"
+       style="background-color: none"
       />
     </label>
     <button
